@@ -26,18 +26,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='<img width="800" height="250" alt="Web102Prework1-ezgif com-resize" src="https://github.com/user-attachments/assets/bc8a8bce-c6bc-4e5d-9c04-b9c1df789f5c" />
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had to debug quite a bit for Challenge 7 as it took me a while to understand deconstructuring. I also had to spend more time as the challenges went on to make sure I understood the topic. 
 
 ## License
 
