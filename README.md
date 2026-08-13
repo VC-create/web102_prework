@@ -26,9 +26,7 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src= '<img width="800" height="250" alt="Web102Prework1-ezgif com-resize" src="https://github.com/user-attachments/assets/f098ed17-d7d4-4d06-8c74-79546545ba00" />
-' />
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://github.com/user-attachments/assets/f098ed17-d7d4-4d06-8c74-79546545ba00" /> title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
