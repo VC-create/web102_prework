@@ -5,6 +5,7 @@
 */
 
 // import the JSON data about the crowd funded games from the games.js file
+import games from './games.js';
 import GAMES_DATA from './games.js';
 
 // create a list of objects to store the data about the games using JSON.parse
@@ -157,7 +158,7 @@ const totalUnfunded = unfundedGames.length
 // create a string that explains the number of unfunded games using the ternary operator
 const unfundedStatement = `A total of ${totalPledged.toLocaleString("en-US")} has been raised for ${totalGames} games. Currently,
                     ${totalUnfunded} ${totalUnfunded > 1 ? "games" : "game"}  ${totalUnfunded > 1 ? "remain" : "remains"} unfunded.
-                    We need your help to fund these amazing ${totalUnfunded > 1 ? "games" : "game"}`
+                    We need your help to fund these amazing ${totalUnfunded > 1 ? "games" : "game"}.`
 
 // create a new DOM element containing the template string and append it to the description container
 const infoString = document.createElement('p')
@@ -178,7 +179,16 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 });
 
 // use destructuring and the spread operator to grab the first and second games
+let [firstGame, secondGame, ...others] = sortedGames
+const {name: name1, desc, pl, goals, bckers, img} = firstGame
+const {name: name2, desc2, pl2, goals2, bckers2, img2} = secondGame
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
+const firstName = document.createElement('p')
+firstName.textContent = name1
+firstGameContainer.append(firstName)
 
 // do the same for the runner up item
+const firstName2 = document.createElement('p')
+firstName2.textContent = name2
+secondGameContainer.append(firstName2)
