@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [x] Added styling and hover effects
       
-* List anything else that you can get done to improve the app functionality!
+List anything else that you can get done to improve the app functionality!
 * [ ] Can add more advanced filtering in the future 
 
 ## Video Walkthrough
