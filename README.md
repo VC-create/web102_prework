@@ -26,7 +26,8 @@ List anything else that you can get done to improve the app functionality!
 
 Here's a walkthrough of implemented features:
 
-<img src= "https://github.com/user-attachments/assets/f098ed17-d7d4-4d06-8c74-79546545ba00" />
+<img src= "<img width="718" height="395" alt="web102-ezgif com-resize" src="https://github.com/user-attachments/assets/d6bbde3d-d838-469b-8338-9b7d1eb9972e" />
+" />
 
 GIF created with Kap 
 
